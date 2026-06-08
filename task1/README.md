@@ -2,11 +2,14 @@
 
 Built a health tracking app called Pulse with three screens - a splash screen with loading animation, a login screen with email/password validation and show/hide toggle, and a home dashboard showing steps, heart rate and recent activities.
 
+## GitHub Repo
+https://github.com/mohdmunis161/internship-appdev/tree/main/task1
+
 ## Screenshots
 
 | Login Screen | Home Dashboard |
 |:---:|:---:|
-| ![Login](image.png) | ![Home](image%20copy.png) |
+| ![Login](login_screen.png) | ![Home](home_dashboard.png) |
 
 ## Setup
 ```
