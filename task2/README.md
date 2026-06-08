@@ -5,6 +5,12 @@ Added navigation on top of the multi-screen app. Implemented a bottom navigation
 ## GitHub Repo
 https://github.com/mohdmunis161/internship-appdev/tree/main/task2
 
+## Screenshots
+
+| Home with Nav | Settings Tab | Drawer Menu |
+|:---:|:---:|:---:|
+| ![Home](home_tab.png) | ![Settings](settings_tab.png) | ![Drawer](drawer_menu.png) |
+
 ## Setup
 ```
 flutter clean

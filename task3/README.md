@@ -5,6 +5,12 @@ Refactored the entire app into a reusable component library. Created shared widg
 ## GitHub Repo
 https://github.com/mohdmunis161/internship-appdev/tree/main/task3
 
+## Screenshots
+
+| Component Preview 1 | Component Preview 2 |
+|:---:|:---:|
+| ![Components 1](components_1.png) | ![Components 2](components_2.png) |
+
 ## Setup
 ```
 flutter clean
