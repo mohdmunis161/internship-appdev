@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ECommerceApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_products">Products</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="checkout">Checkout</string>
+</resources>
